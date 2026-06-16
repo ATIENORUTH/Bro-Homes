@@ -14,7 +14,7 @@ export default function Hero() {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 0.2 }}
                 >
-                    BRO HOMES LTD
+                    BROS HOMES LTD
                 </motion.h1>
 
                 <motion.p
@@ -22,7 +22,7 @@ export default function Hero() {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 0.4 }}
                 >
-                    Stay comfortably. Live affordably. Across Kenya.
+                    Fully Furnished & Serviced Apartments in Nyali, Mombasa, Kenya 🇰🇪
                 </motion.p>
 
                 <motion.a

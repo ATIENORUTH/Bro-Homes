@@ -1,14 +1,15 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Rooms from "./components/Rooms";
-import Booking from "./components/Booking";
+import Contacts from "./components/Contacts";
+
 export default function App() {
   return (
     <>
       <Navbar />
       <Hero />
       <Rooms />
-      <Booking />
+      <Contacts />
     </>
   );
 }
